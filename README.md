@@ -1,6 +1,6 @@
 # AVIONICS
 
-Avionics branch.
+Avionics branch, design with easyEDA, ArduinoIDE, Processing
 
 PCB
 
