@@ -1,6 +1,6 @@
 # ANALYSIS
 
-Analysis branch. The analysis is done using 
+Analysis branch. The analysis is done using:
 
 SOLIDWORKS
 
